@@ -1,6 +1,6 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Anouar Tamasna</h1>
-<h3 align="center">Software & DevOps Engineering Student @ ENSIAS</h3>
+# Hi 👋, I'm Anouar Tamasna
+
+### Software & DevOps Engineering Student @ ENSIAS | Seeking a CDI Job in Cloud & DevOps
 
 <p align="center">
   <a href="https://anouartamasna.me" target="_blank">
@@ -22,7 +22,7 @@
 ## 🧠 About Me
 
 🎓 **Software & DevOps Engineering Student** at **ENSIAS, Rabat**  
-💼 Currently seeking a **PFE internship (2025)** in **Development** or **DevOps**  
+💼 Currently seeking a **CDI Job** in **Cloud** or **DevOps**  
 🚀 Passionate about building **scalable systems**, **CI/CD pipelines**, and **cloud-native apps**  
 ⚙️ I love automating, deploying, and optimizing applications for performance and reliability  
 
@@ -77,14 +77,28 @@
 
 ## 💼 Professional Experience
 
-**🛠️ DevOps Engineer Intern — Digital Data Service**  
-📍 Casablanca, Morocco | 🗓️ Jul 2025 – Aug 2025  
-- Built a high-availability **Kubernetes (K3s)** platform using **GitOps (ArgoCD, GitLab)**  
-- Improved deployment reliability for production-grade applications  
+**🛠️ DevOps Engineer Intern — PayLogic**  
+📍 Casablanca, Morocco | 🗓️ Feb 2026 – Jun 2026  
+- Migrating payment solutions to Kubernetes for better performance and scalability.  
+- Focus on optimizing resource usage, high availability, and horizontal scaling.  
+**Tools:** Kubernetes (kubeadm), Podman, Ansible, Grafana, Prometheus, SonarQube, Jenkins, SVN, GHCR
 
-**💻 Full Stack Engineer Intern — Kenjaro**  
+**💻 DevOps Engineer — Digital Data Service (Freelance)**  
+📍 Casablanca, Morocco | 🗓️ Aug 2025 – Sep 2025  
+- Deployed NeuroTalk on K3s Kubernetes with Jenkins and ArgoCD.  
+- Integrated PostgreSQL HA, MinIO, and Celery for scalable microservices.  
+**Tools:** Kubernetes (K3s), GitLab, ArgoCD, Harbor, PostgreSQL HA, MinIO, Docker, Jenkins
+
+**💻 DevOps Engineer Intern — Digital Data Service**  
+📍 Casablanca, Morocco | 🗓️ Jul 2025 – Aug 2025  
+- Designed a high-availability Kubernetes (K3s) platform using GitOps tools.  
+- Improved deployment reliability for production-grade applications.  
+**Tools:** K3s, Rancher UI, ArgoCD, GitLab, Harbor, MinIO, PostgreSQL, Redis
+
+**🛒 Full Stack Engineer Intern — Kenjaro**  
 📍 Rabat, Morocco | 🗓️ Jun 2024 – Jul 2024  
-- Developed an **e-commerce platform** called *Maamora* using the **MERN** stack  
+- Developed the *Maamora* e-commerce platform, implementing backend APIs and a responsive frontend.  
+**Tech:** Node.js, Express.js, MongoDB, React.js  
 
 ---
 
