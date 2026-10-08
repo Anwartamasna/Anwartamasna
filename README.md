@@ -3,9 +3,6 @@
 ### Software & DevOps Engineering Student @ ENSIAS | Seeking a CDI Job in Cloud & DevOps
 
 <p align="center">
-  <a href="https://anouartamasna.me" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-anouartamasna.me-blue?style=for-the-badge" />
-  </a>
   <a href="mailto:tamasna.anwar@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-tamasna.anwar@gmail.com-red?style=for-the-badge" />
   </a>
