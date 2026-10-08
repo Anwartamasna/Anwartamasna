@@ -128,7 +128,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anouartamasna/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:tamasna.anwar@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
-  <a href="https://anouartamasna.me"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
   <a href="https://github.com/Anwartamasna"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 </p>
 
